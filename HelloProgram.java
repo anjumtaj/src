@@ -1,3 +1,5 @@
+package src;
+
 import acm.graphics.*;
 import acm.program.*;
 
